@@ -1,4 +1,4 @@
-# patcoin
+# PatCoin
 Simple Python Blockchain with a PatCoin protocol 
 
 ### A FRONT-END APP IS UNDER CONSTRUCTION ###
